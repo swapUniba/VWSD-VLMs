@@ -1,0 +1,108 @@
+----------------
+google/siglip2-giant-opt-patch16-256
+en
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['bovine acidophilus milk', 'whole milk bovine', 'bovine semi-skimmed milk', 'bovine chocolate milk', 'bovine skimmed milk', "cows' milk bovine", "goats' milk bovine", 'bovine homogenized milk', 'scalded milk bovine', 'milk wine bovine'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.5484536082474227
+MRR: 0.6975805936477233
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+en
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['bovine acidophilus milk', 'whole milk bovine', 'bovine semi-skimmed milk', 'bovine chocolate milk', 'bovine skimmed milk', "cows' milk bovine", "goats' milk bovine", 'bovine homogenized milk', 'scalded milk bovine', 'milk wine bovine'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.7948453608247422
+MRR: 0.8799971367971798
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+it
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['scremato latte acidophilus', 'latte intero scremato', 'latte parzialmente scremato ', 'scremato latte col cioccolato', 'latte scremato', 'latte di vacca scremato', 'latte di capra scremato', 'latte omogeneizzato scremato', 'scremato latte bollito', 'latticello latte scremato'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.49381443298969074
+MRR: 0.6467288511853243
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+it
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['scremato latte acidophilus', 'latte intero scremato', 'latte parzialmente scremato ', 'scremato latte col cioccolato', 'latte scremato', 'latte di vacca scremato', 'latte di capra scremato', 'latte omogeneizzato scremato', 'scremato latte bollito', 'latticello latte scremato'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.7247422680412371
+MRR: 0.8324946824269196
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+fa
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['شير شیر اسیدوفیلوس', 'شير شیر', 'شير شیر خامه گرفته نیمه', 'شير كاكائو', 'شير خشك بدون چربي', 'شير شیر گاو', 'شير شیر بز', 'شیر هموژنیزه شير', 'شیر سوختن شير', 'اب\u200cدوغ شير'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.4288659793814433
+MRR: 0.6000106382615787
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+fa
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['شير شیر اسیدوفیلوس', 'شير شیر', 'شير شیر خامه گرفته نیمه', 'شير كاكائو', 'شير خشك بدون چربي', 'شير شیر گاو', 'شير شیر بز', 'شیر هموژنیزه شير', 'شیر سوختن شير', 'اب\u200cدوغ شير'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.6711340206185566
+MRR: 0.7974288178166163
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+de
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['dauermilcherzeugnis acidophilus milch', 'dauermilcherzeugnis vollmilch', 'fettarmer milch dauermilcherzeugnis', 'dauermilcherzeugnis schokomilch', 'dauermilcherzeugnis magermilch', 'dauermilcherzeugnis kuhmilch', 'ziegenmilch dauermilcherzeugnis', 'dauermilcherzeugnis homogenisierung', 'verbrüht milch dauermilcherzeugnis', 'kaenemaelk dauermilcherzeugnis'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.4845360824742268
+MRR: 0.6473911814929284
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+de
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['dauermilcherzeugnis acidophilus milch', 'dauermilcherzeugnis vollmilch', 'fettarmer milch dauermilcherzeugnis', 'dauermilcherzeugnis schokomilch', 'dauermilcherzeugnis magermilch', 'dauermilcherzeugnis kuhmilch', 'ziegenmilch dauermilcherzeugnis', 'dauermilcherzeugnis homogenisierung', 'verbrüht milch dauermilcherzeugnis', 'kaenemaelk dauermilcherzeugnis'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.7288659793814433
+MRR: 0.8358979715821669
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+fr
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['de vache lait acidophile', 'lait entier de vache', 'lait demi-écrémé vache', 'de vache lait au chocolat', 'vache de lait écrémé', 'le lait de vache', 'vache lait de chèvre', 'lait de vache homogénéisation', 'de vache lait bouillant', 'de vache lait battu'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.5216494845360825
+MRR: 0.6770193108808749
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+fr
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['de vache lait acidophile', 'lait entier de vache', 'lait demi-écrémé vache', 'de vache lait au chocolat', 'vache de lait écrémé', 'le lait de vache', 'vache lait de chèvre', 'lait de vache homogénéisation', 'de vache lait bouillant', 'de vache lait battu'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.777319587628866
+MRR: 0.8722164954106832
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+es
+negative
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['leche acidophilus deslactosada', 'leche entera deslactosada', 'deslactosada leche semidesnatada', 'leche chocolateada deslactosada', 'deslactosada leche descremada', 'leche de vaca deslactosada', 'deslactosada leche de cabra', 'homogeneización leche deslactosada', 'deslactosada leche hervida', 'mazada leche deslactosada'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.5257731958762887
+MRR: 0.6740382112101796
+----------------
+----------------
+google/siglip2-giant-opt-patch16-256
+es
+random
+True
+{'hyp_id': 'bn:00054996n', 'txt': ['leche acidophilus deslactosada', 'leche entera deslactosada', 'deslactosada leche semidesnatada', 'leche chocolateada deslactosada', 'deslactosada leche descremada', 'leche de vaca deslactosada', 'deslactosada leche de cabra', 'homogeneización leche deslactosada', 'deslactosada leche hervida', 'mazada leche deslactosada'], 'img': ['./data/img/F14/bn:00000923n', './data/img/F54/bn:00081140n', './data/img/F24/bn:00070414n', './data/img/F39/bn:00018651n', './data/img/F14/bn:00071972n', './data/img/F52/bn:00023420n', './data/img/F0/bn:00040861n', './data/img/F44/bn:00044591n', './data/img/F51/bn:00069466n', './data/img/F45/bn:00014290n'], 'ids': ['bn:00000923n', 'bn:00081140n', 'bn:00070414n', 'bn:00018651n', 'bn:00071972n', 'bn:00023420n', 'bn:00040861n', 'bn:00044591n', 'bn:00069466n', 'bn:00014290n']}
+HIT@1: 0.7536082474226804
+MRR: 0.854572083678135
+----------------
