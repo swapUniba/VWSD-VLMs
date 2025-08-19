@@ -56,7 +56,7 @@ Requirements for formatting dataset for Qwen are provided [here](requirements/un
 
 All experiments were performed using Python 3.12.3 and CUDA 12.9, including evaluation.
 
-Fine-tuned models have also been uploaded to [Huggingface]().
+Fine-tuned models have also been uploaded to [Huggingface](https://huggingface.co/collections/swap-uniba/vlms-for-vwsd-68a44401c770decc32897842).
 
 ### Siglip 2
 
